@@ -1,6 +1,6 @@
 // Portada parallax
 $(".parallax-portada").parallax({
-  imageSrc: "assets/img/portada.JPG",
+  imageSrc: "assets/img/portada.png",
 });
 
 // ----------------------
