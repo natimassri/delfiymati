@@ -1,4 +1,8 @@
 // Portada parallax
+$(".parallax-confirmar").parallax({
+  imageSrc: "https://agendalafecha.com/invitaciones/recursos/img/medellin/confirmar.jpg",
+});
+
 $(".parallax-portada").parallax({
   imageSrc: "assets/img/portada.png",
 });
